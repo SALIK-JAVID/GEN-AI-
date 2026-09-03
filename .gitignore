@@ -1,0 +1,63 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables / secrets
+
+.env
+.env.*
+!.env.example
+
+# uv
+
+.uv/
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# macOS
+
+.DS_Store
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Testing / Coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build / Distribution
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# LangChain / GenAI local files
+
+chroma/
+vectorstore/
+*.db
+
+# Temporary files
+
+*.tmp
+*.temp
