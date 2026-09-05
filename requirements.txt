@@ -4,3 +4,4 @@ langchain-google-genai
 langchain-mistralai
 langgraph
 python-dotenv
+langchain_huggingface
