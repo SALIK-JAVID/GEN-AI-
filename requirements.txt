@@ -5,3 +5,7 @@ langchain-mistralai
 langgraph
 python-dotenv
 langchain_huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
